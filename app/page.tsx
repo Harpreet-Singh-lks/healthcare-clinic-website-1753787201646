@@ -1,3 +1,5 @@
+"use client";
+
 import React from 'react';
 import { ProfileCard } from '../components/ProfileCard'
 import { WidgetVideo } from '../components/WidgetVideo'
